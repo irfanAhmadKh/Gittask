@@ -1,0 +1,25 @@
+* {
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 95%;
+    padding: 1px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.container {
+    width: 100%;
+    padding: 1px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
